@@ -1,0 +1,25 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Donate App",
+  "description": "This app helps you donate to worthy causes.",
+  "short_name": "Donate",
+
+   "start_url": "/racer/start.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "aliceblue",
+  "background_color": "red",
+  "icons": [
+        {
+            "src": "/images/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
