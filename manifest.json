@@ -9,7 +9,7 @@
   "display": "fullscreen",
   "orientation": "landscape",
   "theme_color": "aliceblue",
-  "background_color": "red",
+  "background_color": "green",
   "icons": [
         {
             "src": "/images/android-chrome-192x192.png",
