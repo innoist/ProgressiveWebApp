@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/innoist/ProgressiveWebApp/issues"
   },
-  "homepage": "https://github.com/innoist/ProgressiveWebApp#readme"
+  "homepage": "https://github.com/innoist/ProgressiveWebApp#readme",
+  "dependencies": {
+    "sw-toolbox": "^3.6.0"
+  }
 }

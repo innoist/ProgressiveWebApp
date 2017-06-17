@@ -5,7 +5,7 @@
   "description": "This app helps you donate to worthy causes.",
   "short_name": "Donate",
 
-   "start_url": "/racer/start.html",
+   "start_url": "/",
   "display": "fullscreen",
   "orientation": "landscape",
   "theme_color": "aliceblue",
